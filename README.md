@@ -11,7 +11,7 @@ It was born to help you learn. It has many peculiarities before other dictionari
 This is an Android Project! Import it under Android Studio or whatsoever and run it.
 
 ## Layman instructions
-If you want to use my app just download it on your phone, eneble installation for non trusted third party applications and run the .apk installer. I hope I'll get to have my app on the store soon.
+If you want to use my app just download the installer (Heap.apk) on your phone, enable installation for non trusted third party applications and run the the installer. I hope I'll get to have my app on the store soon.
 
 # Heap (IT)
 Heap è un dizionario d'inglese per Android orientato all'apprendimento.
@@ -26,4 +26,4 @@ Questo dizionario ha delle particolarità per essere più funzionale all'apprend
 Importa questo progetto android nel tuo ambiente di programmazione! Già sai cosa fare!
 
 ## Istruzioni per gli utenti
-Scarica il pacchetto .apk, abilità l'installazione da terze parti (l'app non è firmata) e installa il pacchetto. Spero di pubblcare presto questa applicazione sullo App Store, nel frattempo questo è quanto!
+Scarica il pacchetto (Heap.apk), abilità l'installazione da terze parti (l'app non è firmata) e installa il pacchetto. Spero di pubblcare presto questa applicazione sullo App Store, nel frattempo questo è quanto!
