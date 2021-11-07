@@ -18,7 +18,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    private SQLiteDatabase db = null;;
+    private SQLiteDatabase db = null;
     private Cursor cursor = null;
 
     @Override
