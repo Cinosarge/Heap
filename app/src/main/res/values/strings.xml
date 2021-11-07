@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">Heap</string>
+    <string name="word_list_caption">Word list</string>
+    <string name="insert_word">Insert new word</string>
+    <string name="insert_word_hint">New word or expression</string>
+    <string name="insert_definition_hint">Definition\n\nLeave blank for auto search!</string>
+    <string name="insert_source_hint">Source</string>
+    <string name="source_caption">Source</string>
+
+    <string name="action_add">Add</string>
+    <string name="action_done">Done</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="label_add">Add</string>
+    <string name="label_display">Definition</string>
+    <string name="label_edit">Edit</string>
+
+    <string name="toast_warning_server">Cannot connect to server to fetch a definition.</string>
+    <string name="toast_warning_network">No internet connection or a firewall blocks the app.</string>
+    <string name="toast_error_database">Something went wrong with the database!</string>
+    <string name="toast_message_update">Word updated.</string>
+    <string name="toast_unforeseen_error">What.. in the Hell?</string>
+    <string name="toast_warning_noword">Add a word at least!</string>
+
+</resources>

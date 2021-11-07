@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Heap</string>
+    <string name="word_list_caption">Parole</string>
+    <string name="insert_word">Nuova parola</string>
+    <string name="insert_word_hint">Parola o espressione</string>
+    <string name="insert_definition_hint">Definizione\n\nNon scrivere nulla per la ricerca automatica!</string>
+    <string name="insert_source_hint">Fonte</string>
+    <string name="source_caption">Fonte</string>
+
+    <string name="action_add">Aggiungi</string>
+    <string name="action_done">Fatto</string>
+    <string name="action_edit">Modifica</string>
+    <string name="action_delete">Elimina</string>
+
+    <string name="label_add">Aggiungi</string>
+    <string name="label_display">Definizione</string>
+    <string name="label_edit">Modifica</string>
+
+    <string name="toast_warning_server">Conessione non riuscita, la definizione è vuota.</string>
+    <string name="toast_warning_network">Nessuna connessione. Forse l\'applicazione è bloccata da un firewall?</string>
+    <string name="toast_error_database">Il database non ha funzionato.</string>
+    <string name="toast_message_update">Modifiche salvate.</string>
+    <string name="toast_unforeseen_error">Assurdo!</string>
+    <string name="toast_warning_noword">Aggiungi almeno una parola!</string>
+</resources>

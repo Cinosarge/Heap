@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".InsertWordActivity">
+
+    <include
+    android:id="@+id/toolbar_insert"
+    layout="@layout/toolbar" />
+
+    <ProgressBar
+        android:id="@+id/insert_progress_bar"
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:visibility="invisible"
+        style="@android:style/Widget.ProgressBar.Horizontal" />
+
+    <EditText
+        android:id="@+id/insert_word"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/insert_word_hint"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp" />
+
+    <EditText
+        android:id="@+id/insert_definition"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:hint="@string/insert_definition_hint"
+        android:gravity="top"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp" />
+
+    <EditText
+        android:id="@+id/insert_source"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:hint="@string/insert_source_hint"
+        android:gravity="top"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp" />
+
+</LinearLayout>
