@@ -12,17 +12,19 @@ If you want to use my app just download the installer (Heap.apk) on your phone, 
 ## Wanna contribute?
 If you wish get the code, this is an Android Studio Project. You know what to do! Wanna contribute? Next is a list of bugs to fix and feature to add!
 
-## Features to come
-- Make the UI look COOL and AMAZING
-- Add a TTS funcionality to get the words pronunciation
-- Add an import/export activity
-- Add a settings activity including
-* a setting to change the language to search for (this implies memorizing the word language for the purpose of correct pronunciation)
-
-## Bugs to fix and things to better
-- Switch to Kotlin
+## Bugs to fix
 - The EditText fields do not scroll!
+
+## Things to do and to better
+- Switch to Kotlin
 - Use a better way to extract definitions rather than downloading the web page and navigate the tree.
+
+## Features to implement
++ Add an import/export activity (Work in progress...)
+- Make a cool UI
+- Add a TTS funcionality to get the words pronunciation
+- Add a settings activity including
+- a setting to change the language to search for (this implies memorizing the word language for the purpose of correct pronunciation)
 
 ## Please be a dude
 If I'm making any copyright infringement please be a dude: let me know and I'll fix it.
