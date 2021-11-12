@@ -1,29 +1,28 @@
-# Heap (EN)
+# Heap
 Heap is an Android english dictionary aimed at helping you learn english.
 
-## but it's not the usual dictionary
-It was born to help you learn. It has many peculiarities before other dictionaries
+## Heap is not a common dictionary
+It was born to help you learn
+- self-tailored: initially empty, you build your dictionary based upon your needs: just search for a word or create your own definition
+- offline: it automatically searches Wikipedia Wictionary to fetch definitions and stores them locally in alphabetical order
 
-- self-tailored: initially empty, you build your dictionary based upon your needs - just search for a word or create your own definition
-- offline: it automatically searches Wikipedia Wictionary to fetch definitions and stores them locally in alphabetical order.
+## Layman instructions: how to get the app
+If you want to use my app just download the installer (Heap.apk) on your phone, enable installation for non trusted third party applications and run the the installer. It's not a safe practice but you can alwasy trust Cinosarge. I hope I'll get to have my app on the store soon.
 
-## Programmer instructions
-This is an Android Project! Import it under Android Studio or whatsoever and run it.
+## Wanna contribute?
+If you wish get the code, this is an Android Studio Project. You know what to do! Wanna contribute? Next is a list of bugs to fix and feature to add!
 
-## Layman instructions
-If you want to use my app just download the installer (Heap.apk) on your phone, enable installation for non trusted third party applications and run the the installer. I hope I'll get to have my app on the store soon.
+## Features to come
+- Make the UI look COOL and AMAZING
+- Add a TTS funcionality to get the words pronunciation
+- Add an import/export activity
+- Add a settings activity including
+* a setting to change the language to search for (this implies memorizing the word language for the purpose of correct pronunciation)
 
-# Heap (IT)
-Heap è un dizionario d'inglese per Android orientato all'apprendimento.
+## Bugs to fix and things to better
+- Switch to Kotlin
+- The EditText fields do not scroll!
+- Use a better way to extract definitions rather than downloading the web page and navigate the tree.
 
-## Non è il solito dizionario
-Questo dizionario ha delle particolarità per essere più funzionale all'apprendimento
-
-- personale: il dizionario è inizialmente vuoto e sarai tu a popolarlo con le voci che preferisci - cerca una parola oppure inserisci la tua definizione
-- offline: cerca automaticamente una lista di significadti su Wikipedi Wictionary se non inserisci una definizione e salva le parole in ordine alfabetico.
-
-## Istruzioni per il programmatore
-Importa questo progetto android nel tuo ambiente di programmazione! Già sai cosa fare!
-
-## Istruzioni per gli utenti
-Scarica il pacchetto (Heap.apk), abilità l'installazione da terze parti (l'app non è firmata) e installa il pacchetto. Spero di pubblcare presto questa applicazione sullo App Store, nel frattempo questo è quanto!
+## Please be a dude
+If I'm making any copyright infringement please be a dude: let me know and I'll fix it.
