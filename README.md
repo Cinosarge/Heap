@@ -9,19 +9,15 @@ It was born to help you learn
 ## Layman instructions: how to get the app
 If you want to use my app just download the installer (Heap.apk) on your phone, enable installation for non trusted third party applications and run the the installer. It's not a safe practice but you can alwasy trust Cinosarge. I hope I'll get to have my app on the store soon.
 
-****
-
-# Tecnical notes
-
-## Contribution
-If you wish to contribute or just get the code, this is an Android Studio Project. You know what to do!
+## Wanna contribute?
+If you wish get the code, this is an Android Studio Project. You know what to do! Wanna contribute? Next is a list of bugs to fix and feature to add!
 
 ## Features to come
 - Make the UI look COOL and AMAZING
 - Add a TTS funcionality to get the words pronunciation
 - Add an import/export activity
 - Add a settings activity including
--- a setting to change the language to search for (this implies memorizing the word language for the purpose of correct pronunciation)
+* a setting to change the language to search for (this implies memorizing the word language for the purpose of correct pronunciation)
 
 ## Bugs to fix and things to better
 - The EditText fields do not scroll!
