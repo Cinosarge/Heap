@@ -14,17 +14,18 @@ If you want to use my app just download the installer (Heap.apk) on your phone, 
 # Tecnical notes
 
 ## Contribution
-If you wish to contribute or just get the app, this is an Android Studio Project. You know what to do!
+If you wish to contribute or just get the code, this is an Android Studio Project. You know what to do!
 
 ## Features to come
-- Make the UI WONDERFUL
+- Make the UI look COOL and AMAZING
+- Add a TTS funcionality to get the words pronunciation
 - Add an import/export activity
-- Add a settings activity
-- Add a setting to change the language to search for
+- Add a settings activity including
+-- a setting to change the language to search for (this implies memorizing the word language for the purpose of correct pronunciation)
 
 ## Bugs to fix and things to better
 - The EditText fields do not scroll!
-- Use a better way to extract definitions than downloading the web page and navigate the tree.
+- Use a better way to extract definitions rather than downloading the web page and navigate the tree.
 
 ## Please be a dude
 If I'm making any copyright infringement please be a dude: let me know and I'll fix it.
