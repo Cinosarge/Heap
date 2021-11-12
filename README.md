@@ -1,4 +1,4 @@
-# Heap
+# 📚 Heap
 Heap is an Android english dictionary aimed at helping you learn english.
 
 ## Heap is not a common dictionary
