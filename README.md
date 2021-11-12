@@ -20,6 +20,7 @@ If you wish get the code, this is an Android Studio Project. You know what to do
 * a setting to change the language to search for (this implies memorizing the word language for the purpose of correct pronunciation)
 
 ## Bugs to fix and things to better
+- Switch to Kotlin
 - The EditText fields do not scroll!
 - Use a better way to extract definitions rather than downloading the web page and navigate the tree.
 
