@@ -22,4 +22,8 @@
     <string name="toast_message_update">Modifiche salvate.</string>
     <string name="toast_unforeseen_error">Assurdo!</string>
     <string name="toast_warning_noword">Aggiungi almeno una parola!</string>
+
+    <!-- ad esclusivo uso del programmatore -->
+    <string name="toast_service_noactivity">Activity in corso di sviluppo</string>
+    <string name="work_in_progress">Words Import/Export Funcionality is work in progress.</string>
 </resources>

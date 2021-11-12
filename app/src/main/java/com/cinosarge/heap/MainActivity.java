@@ -39,10 +39,13 @@ public class MainActivity extends AppCompatActivity {
          */
         ( new FetchWordsAsyncTask() ).execute();
 
-        // We have to add an OnItemClickListener now
+        // We have to add an OnItemClickListener upon the word list
         ListView wordList = (ListView) findViewById(R.id.word_list);
 
-        // The item click listener
+        /*
+         * Here we go, the OnItemClickListener is meant to call an activity to show details
+         * for the word the use clicked upon
+         */
         AdapterView.OnItemClickListener onItemClickListener = new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> listView, View view, int position, long id) {
@@ -63,13 +66,20 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
+        Intent intent = null;
+
         switch(item.getItemId()) {
             case R.id.action_add_entry :
-                Intent intent = new Intent(this, InsertWordActivity.class);
-                startActivity(intent);
+                intent = new Intent(this, InsertWordActivity.class);
+                break;
+            case R.id.action_import_export:
+                intent = new Intent(this, ImportExportActivity.class);
+                break;
             default :
-                return super.onOptionsItemSelected(item);
+                // NOTHING TO DO
         }
+        startActivity(intent);
+        return super.onOptionsItemSelected(item);
     }
 
     @Override

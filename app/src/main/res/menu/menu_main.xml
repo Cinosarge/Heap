@@ -9,4 +9,11 @@
         android:icon="@drawable/ic_action_add"
         android:orderInCategory="1"
         app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_import_export"
+        android:title="Import/Export"
+        android:icon="@android:drawable/ic_menu_save"
+        android:orderInCategory="2"
+        app:showAsAction="ifRoom" />
 </menu>

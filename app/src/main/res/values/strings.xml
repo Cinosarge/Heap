@@ -23,4 +23,8 @@
     <string name="toast_unforeseen_error">What.. in the Hell?</string>
     <string name="toast_warning_noword">Add a word at least!</string>
 
+    <!-- for developer use only -->
+    <string name="toast_service_noactivity">Activity in development</string>
+    <string name="work_in_progress">Work in progress!!</string>
+
 </resources>
